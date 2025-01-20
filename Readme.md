@@ -1,16 +1,27 @@
-# JSP
+# JSP Study
 
-** 문법 **
-https://github.com/dusen0528/jsp/blob/main/jspGrammar.md
+## 목차
+1. [📝 JSP 문법](jspGrammar.md)
+    - 기본 문법
+    - Expression
+    - Declaration
+    - Scriptlet
 
-**동작구조**
-https://github.com/dusen0528/jsp/blob/main/jspOperationstructure.md
+2. [⚙️ 동작구조](jspOperationstructure.md)
+    - JSP 페이지 처리과정
+    - Servlet 변환 과정
 
-**JSP 내장객체**
-https://github.com/dusen0528/jsp/blob/main/built-inObject.md
+3. [📦 JSP 내장객체](built-inObject.md)
+    - request
+    - response
+    - session
+    - application
 
-**Action Tag**
-https://github.com/dusen0528/jsp/blob/main/ActionTag.md
+4. [🏷️ Action Tag](ActionTag.md)
+    - include
+    - forward
+    - param
 
-**Java Beans**
-https://github.com/dusen0528/jsp/blob/main/JavaBeans.md
+5. [🔧 Java Beans](JavaBeans.md)
+    - Bean 사용법
+    - Scope
